@@ -1,0 +1,14 @@
+[
+	{
+		"property": "theme.better_unloaded_tabs.opacity",
+		"label": "Opacity (0.0 - 1.0)",
+		"type": "number",
+		"defaultValue": "0.6"
+	},
+    {
+		"property": "theme.better_unloaded_tabs.grayscale",
+		"label": "Grayscale",
+		"type": "number",
+		"defaultValue": "1"
+	}
+]
